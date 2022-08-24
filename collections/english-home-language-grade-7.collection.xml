@@ -1,3 +1,48 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Manual">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11018</md:content-id>  <md:title>English Home Language Grade 7</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>7f037d0d-e222-41a1-b04a-24e7e516bcc3</md:uuid>
-<md:slug>english-home-language-grade-7</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Term 1</md:title>                                <col:content>                    <col:module document="m23228"/>                            <col:module document="m23231"/>                            <col:module document="m23232"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 2</md:title>                                <col:content>                    <col:module document="m23233"/>                            <col:module document="m23235"/>                            <col:module document="m23236"/>                            <col:module document="m23237"/>                            <col:module document="m23238"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 3</md:title>                                <col:content>                    <col:module document="m23239"/>                            <col:module document="m23240"/>                            <col:module document="m23250"/>                            <col:module document="m23261"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 4</md:title>                                <col:content>                    <col:module document="m23262"/>                            <col:module document="m23263"/>                            <col:module document="m23265"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Manual" authors="Siyavula Uploaders">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11018</md:content-id>
+    <md:title>English Home Language Grade 7</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>7f037d0d-e222-41a1-b04a-24e7e516bcc3</md:uuid>
+    <md:slug>english-home-language-grade-7</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Term 1</md:title>
+      <col:content>
+        <col:module document="m23228"/>
+        <col:module document="m23231"/>
+        <col:module document="m23232"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 2</md:title>
+      <col:content>
+        <col:module document="m23233"/>
+        <col:module document="m23235"/>
+        <col:module document="m23236"/>
+        <col:module document="m23237"/>
+        <col:module document="m23238"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 3</md:title>
+      <col:content>
+        <col:module document="m23239"/>
+        <col:module document="m23240"/>
+        <col:module document="m23250"/>
+        <col:module document="m23261"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 4</md:title>
+      <col:content>
+        <col:module document="m23262"/>
+        <col:module document="m23263"/>
+        <col:module document="m23265"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
